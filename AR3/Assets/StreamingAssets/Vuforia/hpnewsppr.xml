@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="asnow" size="10.000000 6.982893" />
+    <ImageTarget name="arain" size="10.000000 7.400722" />
+    <ImageTarget name="afish" size="10.000000 7.439863" />
+    <ImageTarget name="abird" size="10.000000 6.669922" />
+    <ImageTarget name="ainsect" size="10.000000 6.674805" />
+    <ImageTarget name="afrog" size="10.000000 6.694336" />
+  </Tracking>
+</QCARConfig>
